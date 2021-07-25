@@ -1,0 +1,5 @@
+jwt:
+  remember:
+    me: 604800
+  secret: testsecret
+rememberMeExpDate: 604800
